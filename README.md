@@ -12,4 +12,4 @@
   #Snapshot for Code Coverage:
  # ![coverage report](https://user-images.githubusercontent.com/25413288/118402382-60743200-b687-11eb-8570-54da188a0b36.PNG)
 
-#NOTE: Code coverage is affected by some unnecessary files which I have not excluded. I have covered 100% for the main funcationalities.
+#NOTE: Code coverage is affected by some unnecessary files which I have not excluded. I have covered 100% for the main functionalities.
